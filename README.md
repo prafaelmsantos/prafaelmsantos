@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on ISCAC
-- 💬 Ask me about **Asp.NET Core, C#, Java, EF Core, Typescript, Javascript, Angular, Flutter, Bootstrap or Material Design...**
+- 💬 Ask me about **Asp.NET Core, C#, Java, EF Core, Typescript, Javascript, PHP, Angular, Flutter, Bootstrap or Material Design...**
 - 📫 How to reach me: **linkedin.com/in/rafael-santos-78a350209**
 - ⚡  Always keen on **🌊🏄‍♀️ Surf && Bodyboard, 🎮 PS5, 🍿 Movies, 🥁 Drums and Percussion**.
 
