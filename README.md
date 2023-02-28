@@ -1,10 +1,10 @@
 ### Hi 👋, I'm Rafael Santos
 
 
-- 🔭 I’m currently working on ISCAC
-- 💬 Ask me about **Asp.NET Core, Asp.NET Core MVC, C#, Java, EF Core, TypeScript, JavaScript, PHP, Angular, React, GraphQL, Flutter, Bootstrap or Material Design...**
+- 🔭 I’m currently working as a software engineer at ENEIDA.IO
+- 💬 Ask me about **asp.NET Core, asp.NET Core MVC, C#, Java, EF Core, TypeScript, JavaScript, PHP, Angular, React, GraphQL, Flutter, Bootstrap or Material Design...**
 - 📫 How to reach me: **linkedin.com/in/rafael-santos-78a350209**
-- ⚡  Always keen on **🌊🏄‍♀️ Surf && Bodyboard, 🎮 PS4, 🍿 Movies, 🥁 Drums and Percussion**.
+- ⚡  Always keen on **🌊🏄‍♀️ Surf && Bodyboard, 🎮 PS5, 🍿 Movies, 🥁 Drums and Percussion**.
 
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ISCAC
+- 🔭 I’m currently working as a software engineer at ENEIDA.IO
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
