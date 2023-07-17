@@ -36,3 +36,6 @@ Here are some ideas to get you started:
 
 linkedin.com/in/rafael-santos-78a350209
 -->
+---
+### Check my contributions
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&preferLogin=false">    <img  alt="prafaelmsantos's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/prafaelmsantos?cardType=github&theme=github-dark&preferLogin=false" />  </a>
