@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working as a Software Engineer at ENEIDA.IO
-- 💬 Ask me about **.NET Core, .NET MVC, C#, Java, EF Core, TypeScript, JavaScript, PHP, Angular, React, GraphQL, Flutter, Bootstrap or Material Design...**
+- 💬 Ask me about **.NET Core, .NET MVC, C#, Java, EF Core, TypeScript, JavaScript, PHP, Angular, React, GraphQL, Flutter, Bootstrap, MUI or Material Design...**
 - 📫 How to reach me: **linkedin.com/in/rafael-santos-78a350209**
 - ⚡  Always keen on **🌊🏄‍♀️ Surf && Bodyboard, 🎮 PS5, 🍿 Movies, 🥁 Drums and Percussion**.
 
