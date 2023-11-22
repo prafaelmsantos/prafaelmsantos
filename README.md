@@ -25,5 +25,5 @@
 <div>
   <a href="https://github.com/prafaelmsantos">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=prafaelmsantos&show_icons=true&theme=vision-friendly-white" alt="prafaelmsantos's stats"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prafaelmsantos&layout=compact&theme=vision-friendly-dark" alt="prafaelmsantos's most languages"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prafaelmsantos&layout=compact&theme=vision-friendly-white" alt="prafaelmsantos's most languages"/>
 </div>
