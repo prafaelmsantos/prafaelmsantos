@@ -11,9 +11,8 @@
    <a href="https://www.linkedin.com/in/rafael-santos-78a350209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-adel-9b3b9b296/" height="30" width="40" /></a>
 </p>
 
-## ⚙️ &nbsp;GitHub Analytics
+⚙️ GitHub Analytics
 
-<div>
-  <img height="180em" src="https://github.com/stats-organization/github-stats-extended/api?username=prafaelmsantos&show_icons=true&bg_color=00000000&text_color=434d58" alt="prafaelmsantos's stats"/>
-  <img height="180em" src="https://github.com/stats-organization/github-stats-extended/api/top-langs/?username=prafaelmsantos&layout=compact&bg_color=00000000&text_color=434d58" alt="prafaelmsantos's most languages"/>
+<div align="center"> <img height="180em" src="https://github-stats-extended.vercel.app/api?username=prafaelmsantos&show_icons=true&bg_color=00000000&text_color=434d58" alt="prafaelmsantos's GitHub stats" />
+   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=prafaelmsantos&layout=compact&bg_color=00000000&text_color=434d58" alt="prafaelmsantos's most used languages" />
 </div>
