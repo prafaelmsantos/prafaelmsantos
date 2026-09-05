@@ -13,7 +13,7 @@
 
 ## ⚙️ GitHub Analytics
 
-<div align="start">
+<div align="center">
    <img
     height="180em"
     src="https://github-stats-extended.vercel.app/api?username=prafaelmsantos&show_icons=true&bg_color=00000000&text_color=434d58"
