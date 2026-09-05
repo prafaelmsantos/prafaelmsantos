@@ -13,6 +13,7 @@
 
 ## ⚙️ GitHub Analytics
 
+<div align="start">
    <img
     height="180em"
     src="https://github-stats-extended.vercel.app/api?username=prafaelmsantos&show_icons=true&bg_color=00000000&text_color=434d58"
@@ -24,3 +25,5 @@
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=prafaelmsantos&layout=compact&bg_color=00000000&text_color=434d58"
     alt="prafaelmsantos's most used languages"
    />
+
+</div>
