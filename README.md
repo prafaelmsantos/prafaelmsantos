@@ -15,18 +15,18 @@
 
 ## ⚙️ GitHub Analytics
 
-<div align="left">
-  <img
-    width="300"
-    height="170"
-    src="https://github-stats-extended.vercel.app/api?username=prafaelmsantos&show_icons=true&bg_color=00000000&text_color=434d58"
-    alt="GitHub Stats"
-  />
+<div align="left">  
   <img
     width="300"
     height="170"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=prafaelmsantos&layout=compact&bg_color=00000000&text_color=434d58"
     alt="Top Languages"
+  />
+  <img
+    width="300"
+    height="170"
+    src="https://github-stats-extended.vercel.app/api?username=prafaelmsantos&show_icons=true&bg_color=00000000&text_color=434d58"
+    alt="GitHub Stats"
   />
   <img
     width="300"
