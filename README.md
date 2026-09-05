@@ -13,8 +13,6 @@
 
 ## ⚙️ GitHub Analytics
 
-## ⚙️ GitHub Analytics
-
 <div align="left">
   <img
     height="180em"
@@ -32,24 +30,9 @@
 
 <div align="left">
   <img
+    height="180em"
     src="https://streak-stats.demolab.com/?user=prafaelmsantos&background=00000000&hide_border=true"
     alt="GitHub Streak"
-  />
-</div>
-
-<br>
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=prafaelmsantos&theme=github-compact&hide_border=true"
-alt="GitHub Activity Graph"
-/>
-
-<br>
-
-<div align="left">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=prafaelmsantos&theme=flat&no-frame=true&margin-w=10"
-    alt="GitHub Trophies"
   />
 </div>
 
